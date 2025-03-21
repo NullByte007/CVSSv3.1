@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/K7hHwsy/BruLo.png" width="700px" height="250px">
+<img src="https://i.ibb.co/d0MFN4vy/CVSS-banner-git.png" width="700px" height="250px">
 </p>
 
 
